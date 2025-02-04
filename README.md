@@ -1,2 +1,1 @@
-# Hlo Application
-Welcome to my company
+# Hlo Application Welcome to my company
